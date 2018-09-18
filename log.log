@@ -1,0 +1,84 @@
+{"message":"asd","level":"error"}
+{"message":"connected to db...","level":"info"}
+{"message":"asd","level":"error"}
+{"message":"connected to db...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"name":"MongoNetworkError","errorLabels":["TransientTransactionError"],"level":"error","message":"failed to reconnect after 30 attempts with interval 1000 ms"}
+{"name":"MongoNetworkError","errorLabels":["TransientTransactionError"],"level":"error","message":"failed to reconnect after 30 attempts with interval 1000 ms"}
+{"name":"MongoNetworkError","errorLabels":["TransientTransactionError"],"level":"error","message":"failed to reconnect after 30 attempts with interval 1000 ms"}
+{"name":"MongoError","level":"error","message":"Topology was destroyed"}
+{"name":"MongoError","level":"error","message":"Topology was destroyed"}
+{"name":"MongoError","level":"error","message":"Topology was destroyed"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to db...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to mongodb://localhost:27017/temp...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to mongodb://localhost:27017/temp_test...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to mongodb://localhost:27017/temp_test...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to mongodb://localhost:27017/temp_test...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to mongodb://localhost:27017/temp_test...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to mongodb://localhost:27017/temp_test...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to mongodb://localhost:27017/temp_test...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to mongodb://localhost:27017/temp_test...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to mongodb://localhost:27017/temp_test...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to mongodb://localhost:27017/temp_test...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to mongodb://localhost:27017/temp_test...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to mongodb://localhost:27017/temp_test...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to mongodb://localhost:27017/temp_test...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to mongodb://localhost:27017/temp_test...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to mongodb://localhost:27017/temp_test...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to mongodb://localhost:27017/temp_test...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to mongodb://localhost:27017/temp_test...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to mongodb://localhost:27017/temp_test...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to mongodb://localhost:27017/temp_test...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to mongodb://localhost:27017/temp_test...","level":"info"}
+{"message":"server is listening @port:3000","level":"info"}
+{"message":"connected to mongodb://localhost:27017/temp_test...","level":"info"}

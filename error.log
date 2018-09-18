@@ -1,0 +1,8 @@
+{"message":"asd","level":"error"}
+{"message":"asd","level":"error"}
+{"name":"MongoNetworkError","errorLabels":["TransientTransactionError"],"level":"error","message":"failed to reconnect after 30 attempts with interval 1000 ms"}
+{"name":"MongoNetworkError","errorLabels":["TransientTransactionError"],"level":"error","message":"failed to reconnect after 30 attempts with interval 1000 ms"}
+{"name":"MongoNetworkError","errorLabels":["TransientTransactionError"],"level":"error","message":"failed to reconnect after 30 attempts with interval 1000 ms"}
+{"name":"MongoError","level":"error","message":"Topology was destroyed"}
+{"name":"MongoError","level":"error","message":"Topology was destroyed"}
+{"name":"MongoError","level":"error","message":"Topology was destroyed"}
