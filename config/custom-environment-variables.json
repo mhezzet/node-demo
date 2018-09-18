@@ -1,3 +1,4 @@
 {
-  "jwtPrivateKey": "temp_jwtPrivateKey"
+  "jwtPrivateKey": "temp_jwtPrivateKey",
+  "db": "template_db_string"
 }
